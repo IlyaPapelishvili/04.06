@@ -1,3 +1,9 @@
+
+#: sphinx/application.py:166
+#, python-format
+msgid "NEW +01 Output directory (%s) is not a directory"
+msgstr "NEW +01"
+
 #: sphinx/application.py:158
 #, python-format
 msgid "config directory doesn't contain a conf.py file (%s)"
@@ -18,11 +24,6 @@ msgstr ""
 #: sphinx/application.py:170
 msgid "Source directory and destination directory cannot be identical"
 msgstr "dfgjdfgjdfgjdfgjdfg"
-
-#: sphinx/application.py:166
-#, python-format
-msgid "NEW +01 Output directory (%s) is not a directory"
-msgstr ""
 
 #: sphinx/application.py:201
 #, python-format
