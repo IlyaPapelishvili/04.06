@@ -1,18 +1,8 @@
-#: sphinx/application.py:201
-#, python-format
-msgid "NEW +1 Running Sphinx v%s"
-msgstr ""
-
 #: sphinx/application.py:158
 #, python-format
 msgid "config directory doesn't contain a conf.py file (%s)"
 msgstr ""
 msgctxt "test text"
-
-#: sphinx/application.py:201
-#, python-format
-msgid "NEW +2 Running Sphinx v%s"
-msgstr ""
 
 #: sphinx/application.py:162
 #, python-format
