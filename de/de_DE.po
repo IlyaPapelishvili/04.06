@@ -1,7 +1,7 @@
 
 #: sphinx/application.py:166
 #, python-format
-msgid "NEW +01 Output directory (%s) is not a directory"
+msgid ""
 msgstr "NEW +01"
 
 #: sphinx/application.py:158
