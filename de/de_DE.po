@@ -13,7 +13,7 @@ msgctxt "test text"
 #: sphinx/application.py:162
 #, python-format
 msgid "Cannot find source directory (%s)"
-msgstr "shssgfdhsghdfgh"
+msgstr ""
 msgid_plural "%s days"
 
 #: sphinx/application.py:166
