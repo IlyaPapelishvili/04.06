@@ -8,7 +8,7 @@ ball:
   - false
   - attack
 right: false
-remain: grew
+
 creature: roll
 smooth: false
 tight: true
