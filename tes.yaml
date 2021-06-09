@@ -1,3 +1,4 @@
+001remain: 001grew
 ball:
   - between
   - true
@@ -10,6 +11,7 @@ ball:
 right: false
 remain: grew
 creature: roll
+002remain: 002grew
 smooth: false
 tight: true
 stuck: science
