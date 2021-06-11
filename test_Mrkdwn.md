@@ -419,6 +419,7 @@ HTML5 compatible.
 
 #### 4.7.4 `<source>` <a name="474-source"></a>
 
+<!---
 #### 4.7.18 SVG <a name="4718-svg"></a>
 
 SVG tags are not in the HTML5 namespace. They are listed below without section ids.
@@ -452,6 +453,7 @@ SVG tags are not in the HTML5 namespace. They are listed below without section i
 `<symbol>`
 `<desc>`
 `<title>`
+--->
 
 #### 4.9 Tabular data <a name="49-tabular-data"></a>
 
