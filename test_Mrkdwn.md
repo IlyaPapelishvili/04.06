@@ -50,7 +50,7 @@ access to a limited set of allowed tags, capabilities, and extensions.
 
 
 
-In addition, creatives must obey the following rules:
+
 
 <table>
 <thead>
