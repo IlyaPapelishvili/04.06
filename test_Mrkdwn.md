@@ -38,13 +38,7 @@ limitations under the License.
 _If you'd like to propose changes to the standard, please comment on the [Intent
 to Implement](https://github.com/ampproject/amphtml/issues/4264)_.
 
-AMPHTML ads is a mechanism for rendering fast,
-performant ads in AMP pages. To ensure that AMPHTML ad documents ("AMP
-creatives") can be rendered quickly and smoothly in the browser and do
-not degrade user experience, AMP creatives must obey a set of validation
-rules. Similar in spirit to the
-[AMP format rules](https://amp.dev/documentation/guides-and-tutorials/learn/spec/amphtml), AMPHTML ads have
-access to a limited set of allowed tags, capabilities, and extensions.
+
 
 ## AMPHTML ad format rules <a name="amphtml-ad-format-rules"></a>
 
